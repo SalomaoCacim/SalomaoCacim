@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Para me conhecer um pouco mais ou entrar em contato comigo, seguem meus links abaixo!
+  ### Para entrar em contato comigo, seguem meus links abaixo!
  
 <div> 
   <a href="https://instagram.com/salomaocacim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
